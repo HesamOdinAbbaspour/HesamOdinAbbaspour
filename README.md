@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================ -->
 <p align="center">
   <!-- Animated typing header (use https://readme-typing-svg.demolab.com or host a GIF) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=2b6cb0&lines=Hi+👋,+I'm+Hesam+Abbaspour;Electrical+Control+Engineer+→+AI+%26+Data+Science;Building+Intelligent+Web+and+ML+Systems" alt="typing-header"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1500&color=2B6CB0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hesam+Abbaspour;Electrical+Control+Engineer+;+AI+%26+Data+Science;Building+explainable;%26+production-ready+AI" alt="Typing SVG" /></a>
   <br/>
   <em>Engineer • ML & Data Science • Building explainable & production-ready AI</em>
 </p>
