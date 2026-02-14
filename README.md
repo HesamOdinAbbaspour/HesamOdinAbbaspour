@@ -1,55 +1,101 @@
-### Hi there 👋
-
-<!--
-**HesamOdinAbbaspour/HesamOdinAbbaspour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-    👋 Hi, I’m @hes719 and I have a master's degree in electrical control engineering.
-    👀 I'm interested in Web Design, Responsive design, Data Science, Machine learning, and basically anything related to artificial intelligence.
-    🌱 I’m currently learning Raect.js and Tailwind Css .
-    💞️ I’m looking to collaborate on with companies where respect is paramount and I can take steps towards the realization of individual and team progress by carrying out the intended projects.
-    📫 My email address is h.abbaspour719@gmail.com and the other communication link is linkedin.com/in/hesam-abbaspour.
--->
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=HesamOdinAbbaspour&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=HesamOdinAbbaspour&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/HesamOdinAbbaspour/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamOdinAbbaspour&layout=compact"/></a>
+<!-- ================= HEADER ================ -->
+<p align="center">
+  <!-- Animated typing header (use https://readme-typing-svg.demolab.com or host a GIF) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=2b6cb0&lines=Hi+👋,+I'm+Hesam+Abbaspour;Electrical+Control+Engineer+→+AI+%26+Data+Science;Building+Intelligent+Web+and+ML+Systems" alt="typing-header"/>
+  <br/>
+  <em>Engineer • ML & Data Science • Building explainable & production-ready AI</em>
 </p>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/hesam-abbaspour">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/Hesam_Abbaspour">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='h.abaspour719@gmail.com'>h.abaspour719@gmail.com</a>
+---
+
+## 👋 خلاصه (TL;DR)
+- 🎓 M.Sc. in Electrical Control Engineering  
+- 🔬 Transitioning to **AI / Machine Learning / Data Science** (research + production)  
+- 🌐 Web + ML: deploying models as intelligent web apps and services (focus on healthcare/dental domain)  
+- 🔭 Current: building reproducible ML pipelines, explainable models, and research-ready repositories
+
+---
+
+## 🛠️ Tech & Tools
+**Languages:** Python, JavaScript, MATLAB  
+**ML / Data:** scikit-learn, PyTorch, TensorFlow, pandas, NumPy, scikit-optimize  
+**MLOps / Infra:** Docker, FastAPI, GitHub Actions, MLflow, DVC  
+**Web / UI:** React, Next.js, Tailwind CSS, Figma  
+**Research / Docs:** Jupyter, Colab, LaTeX
+
+---
+
+## ⭐ Featured Projects
+<!-- Featured project cards — replace image links with project screenshots / badges -->
+<p align="center">
+  <a href="https://github.com/HesamOdinAbbaspour/prostate-cxr-detection">
+    <img width="280" src="https://raw.githubusercontent.com/HesamOdinAbbaspour/assets/main/cards/prostate-card.png" alt="Prostate Detection"/>
+  </a>
+  <a href="https://github.com/HesamOdinAbbaspour/dental-ai-leads">
+    <img width="280" src="https://raw.githubusercontent.com/HesamOdinAbbaspour/assets/main/cards/dental-card.png" alt="Dental AI"/>
+  </a>
+  <a href="https://github.com/HesamOdinAbbaspour/mlops-pipeline-demo">
+    <img width="280" src="https://raw.githubusercontent.com/HesamOdinAbbaspour/assets/main/cards/mlops-card.png" alt="MLOps"/>
+  </a>
 </p>
 
+> هر کارت تصویری را به‌راحتی با یک screenshot تولید کن و در مسیر `assets/main/cards/` در مخزن قرار بده.
 
-### Key points
-*   Results-driven Frontend Developer with a passion for creating visually appealing and user-friendly websites. 
-*   Skilled in HTML, CSS, JavaScript with a strong focus on responsive design.
-*   Proven track record of collaborating with cross-functional teams to deliver high-quality web applications that meet both client and user needs.
-*   Detail-oriented and proactive problem-solver dedicated to staying up-to-date with the latest technologies and trends in the frontend development field.
+---
 
-## 🛠 Technology Stack
-*   HTML, CSS, JavaScript
-*   Data Sceince, Data Analytic, Data Analysis and so on.
-*   Bootstap, TailwindCss, Sass
-*   Ajax, Jquery
-*   GitHub/GitLab
+## 📈 GitHub Stats & Contribution Snake
+<p align="center">
+  <!-- GitHub readme stats -->
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=HesamOdinAbbaspour&show_icons=true&count_private=true&theme=vision-friendly-dark" />
+  <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamOdinAbbaspour&layout=compact&theme=vision-friendly-dark" />
+</p>
+
+<!-- Contribution snake: generate SVG via https://github.com/ashutosh00710/github-readme-activity-graph or snake generator -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HesamOdinAbbaspour/assets/main/snake/snake.svg" alt="contrib-snake" />
+</p>
+
+> توضیح: برای snake از ابزارهای رایج (contribution-grid-snake) استفاده کن و خروجی SVG را در مخزن قرار بده تا همیشه نمایش داده شود.
+
+---
+
+## 🔬 Research & Selected Papers
+- **Explainable Prostate Cancer Detection (repo link)** — model + interpretability + dataset preprocessing  
+- **Uncertainty-aware ML for small medical datasets** — notebooks + calibration experiments  
+- اضافه خواهد شد: لینک به preprint / arXiv (در صورت انتشار)
+
+---
+
+## 🧭 AI Roadmap (public)
+1. **Core** — reproducible training pipelines (DVC + MLflow + tests)  
+2. **Models** — small CNNs → transfer learning → uncertainty estimation → explainability (SHAP/LIME)  
+3. **Infra** — containerized model serving (FastAPI + Docker + GitHub Actions)  
+4. **Research** — publish one workshop paper + 1 preprint in applied ML/medical imaging  
+5. **Impact** — deploy demo for clinicians / collect user feedback
+
+---
+
+## 📂 How I structure my repos (template)
+
+data/ # raw & processed (use DVC)
+/notebooks/ # experiments (nbs with clear seeds)
+/src/ # clean python package (pip install -e .)
+/tests/ # unit + integration tests
+/Dockerfile
+/README.md # reproducible run instructions
 
 
+---
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/HesamOdinAbbaspour/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=HesamOdinAbbaspour&color=DE002D">
-   </a>
-</div>
+## 📫 Contact
+<p align="center">
+  <a href="mailto:h.abbaspour719@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hesam-abbaspour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer: quick call-to-action -->
+<p align="center">
+  ⭐ If you're working on AI/medical imaging or ML systems and want to collaborate — open to research collaborations and PhD/fund opportunities.
+</p>
