@@ -155,9 +155,4 @@ Thesis focused on medical image analysis and control-inspired ML methods
 
 ![Contribution Snake](https://github.com/HesamOdinAbbaspour/HesamOdinAbbaspour/blob/output/github-contribution-grid-snake.svg)
 
----
 
-<div align="center">
-  <strong>Made with ❤️ and lots of ☕</strong><br>
-  <em>Let's build impactful AI together!</em>
-</div>
