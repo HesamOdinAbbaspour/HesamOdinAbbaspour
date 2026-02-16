@@ -1,107 +1,163 @@
-<!-- 
-  Dark modern GitHub Profile README for Hesam Abbaspour
-  Theme: charcoal/deep purple/teal accents – clinical & trustworthy
--->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HesamOdinAbbaspour&label=Profile%20Views&color=38B2AC&style=for-the-badge&labelColor=1A202C" alt="Profile Views" />
+  
+  <h1>Hi 👋, I'm Hesam Odin Abbaspour</h1>
+  
+  <p>
+    <strong>ML &amp; Data Science • AI systems for real-world impact</strong><br>
+    <em>Electrical Control Engineer → AI Practitioner</em>
+  </p>
 
-<!-- Header banner – wide aspect, fits GitHub profile view nicely -->
-![Hesam Abbaspour – Web & UI Designer for Dental Clinics](assets/banner-dark.svg)
-<!-- Alt: "Dark banner header: Hesam Abbaspour — Web & UI Designer specialized in high-conversion websites for dentists and dental clinics" -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=800&color=38B2AC&center=true&vCenter=true&width=720&lines=From+Control+Systems+to+Production+AI;Building+Explainable+%26+Reproducible+ML;Medical+Imaging+%E2%80%A2+MLOps+%E2%80%A2+Uncertainty;Open+to+PhD+%26+Research+Collaborations" alt="Typing SVG" />
 
-<h1 align="center">Hi — I'm Hesam 👋</h1>
+  <br><br>
+  
+  <a href="https://linkedin.com/in/hesam-abbaspour" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/Hesam_Abbaspour" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+  </a>
+  <a href="mailto:h.abbaspour719@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://hesamwebstudio.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-38B2AC?logo=vercel&logoColor=white&style=for-the-badge" alt="Website" />
+  </a>
+</div>
 
-<p align="center">
-  <strong>Web & UI Designer + Frontend Developer</strong><br>
-  I create clean, trust-building, conversion-focused websites for <strong>dentists</strong> and dental clinics.
-</p>
-
-<p align="center">
-  Designs that make patients click → book → become loyal patients.
-</p>
-
-<p align="center">
-  <a href="https://hesamwebstudio.ir">Portfolio → hesamwebstudio.ir</a>  
-  •  
-  <a href="mailto:<your-email@example.com>">Email</a>  
-  •  
-  Instagram: @<your_instagram_handle>
-</p>
-
----
-
-### 🚀 What I'm Focused On Right Now
-
-- 🔭 Designing high-conversion landing pages & full dental clinic sites  
-- 🌱 Learning applied Machine Learning & Data Science (preparing for MSc/PhD applications)  
-- 👨‍⚕️ Helping new dentists get professional online presence fast  
+<br>
 
 ---
 
-### 🛠 Key Skills
+### 👨‍🔬 About Me
 
-| Category              | Tools & Focus Areas                              |
-|-----------------------|--------------------------------------------------|
-| Frontend & UI/UX      | HTML, CSS, JavaScript, Responsive Design, Figma  |
-| Design & Prototyping  | Figma (mockups & Instagram carousels), Conversion UX |
-| Backend / Data Basics | Python, MATLAB, APIs                             |
-| Niche Specialization  | Dental clinic websites, appointment funnels, patient trust UI |
+I'm a **control engineer turned AI practitioner** with a passion for building **explainable, production-ready, and reproducible** machine learning systems — especially for healthcare and medical applications.
+
+I combine strong domain knowledge in signal processing & control systems with modern ML/DL practices to create models that are not only accurate but also **interpretable and deployable**. Currently focused on creating high-quality research artifacts and demo-ready projects to support PhD applications and industry collaborations.
 
 ---
 
-### 🖼️ Selected Work (Dental Focus)
-
-**1. Dr. Sadeghi Dental Landing Page (Mock/Concept)**  
-Problem: Generic template → low booking rate  
-Solution: Clean hero + trust signals + clear CTA funnel  
-Result: Visual hierarchy improved → higher conversion potential  
-→ [Figma prototype](https://www.figma.com/...) | ![Demo GIF](assets/gifs/demo-dental-hero.gif)  
-<!-- Alt: "Animated GIF demo: dental landing page hero load, CTA hover pulse, booking form microinteraction" -->
-
-**2. Generic New Dentist Clinic Template**  
-Modern, responsive static site (HTML/CSS/JS or React prototype) with services, testimonials, scheduling CTA.  
-→ Live preview (coming) | Screenshots in /assets/
-
-**3. Full Portfolio**  
-Case studies + before/after redesigns → https://hesamwebstudio.ir
-
-*(More projects & live links added as completed)*
-
----
-
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <div align="center">
-  
-<!-- GitHub Stats - tokyonight is dark & modern -->
-![Hesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=HesamOdinAbbaspour&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=28" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamOdinAbbaspour&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="49%" />
+</div>
 
-<!-- Top Languages - compact layout -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=tokyonight&hide_border=true)
+<br>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HesamOdinAbbaspour&theme=tokyonight&no-frame=true&margin-w=15&column=4&row=2" alt="Trophies" />
 </div>
 
 ---
 
-### 🎯 What I'm Looking For
+### 🛠️ Tech Stack
 
-- **Clients** — New dentists / small clinics needing affordable, high-converting websites  
-- **Collaborations** — With developers for productized dental templates  
-- **Academic** — Funded MSc/PhD positions in Data Science / AI (recommendation letters available)
+**Programming & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=python,matlab,numpy,pandas,scikitlearn&perline=10" />
 
-**CTA:** DM me on Instagram or email for a quick 15-min design consult.
+**Machine Learning & Research**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,xgboost,lightgbm&perline=10" />
+<span style="font-size:0.9em">• SHAP • LIME • Grad-CAM • Uncertainty Estimation • Transfer Learning • Small-data techniques</span>
+
+**MLOps & Reproducibility**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,fastapi,githubactions,git&perline=10" />
+<span style="font-size:0.9em">• MLflow • DVC • Reproducible Notebooks • CI/CD</span>
+
+**Web & Design**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,figma&perline=10" />
+
+**Tools & Others**
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,jupyter,latex,github,gitlab&perline=10" />
 
 ---
 
-### 📎 Let's Connect
+### 🔥 Featured Projects
 
-- 🌐 https://hesamwebstudio.ir  
-- ✉️ <your-email@example.com>  
-- Instagram: @<your_instagram_handle> (daily dental design tips & carousels)  
-- Open to collaborations & freelance dental web projects
+**1. prostate-cancer-explainable**  
+Explainable ML pipeline for prostate cancer detection from MRI using patch-based classification, Grad-CAM, SHAP, and uncertainty estimation.  
+**Built for research & PhD applications.**  
+[🔗 Repository](https://github.com/HesamOdinAbbaspour/prostate-cancer-explainable) • [Demo (coming soon)](https://github.com/HesamOdinAbbaspour/prostate-cancer-explainable)
 
-*Last updated: February 2026* <!-- Consider adding a simple GitHub Action later to auto-update this -->
+**2. mlops-template**  
+Production-ready, fully reproducible MLOps starter template with DVC + MLflow + Docker + GitHub Actions CI/CD.  
+Perfect blueprint for scalable ML projects.  
+[🔗 Repository](https://github.com/HesamOdinAbbaspour/mlops-template) • [One-click demo](https://github.com/HesamOdinAbbaspour/mlops-template)
 
-<!-- 
-  Badges (optional inline examples – replace with custom SVGs if generated)
-  ![Open for Collaborations](https://img.shields.io/badge/Open%20for%20Collaborations-Yes-14b8a6?style=flat-square)
-  ![Dental Niche Specialist](https://img.shields.io/badge/Niche-Dental%20Websites-6b21a8?style=flat-square)
--->
+**3. dental-ai-leadscoring**  
+End-to-end AI lead-scoring system + dashboard tailored for dental clinics (product-focused ML).  
+Combines my web design background with ML.  
+[🔗 Repository](https://github.com/HesamOdinAbbaspour/dental-ai-leadscoring) • [Live Demo](https://hesamwebstudio.ir/demo/dental-leads)
+
+**4. explainability-dashboard**  
+Interactive web dashboard to visualize SHAP, Grad-CAM, and local explanations for both image and tabular data.  
+Great artifact for interviews and research presentations.  
+[🔗 Repository](https://github.com/HesamOdinAbbaspour/explainability-dashboard) • [Demo (coming soon)](https://github.com/HesamOdinAbbaspour/explainability-dashboard)
+
+---
+
+### 💼 Professional Experience
+
+**Freelance Web Designer (Medical & Dental Clinics)**  
+*2024 – Present | Iran*  
+- Designed and developed 10+ responsive, high-conversion websites for healthcare clients  
+- Improved average page load speed by ~40% and boosted conversion rates through optimized UX  
+- Tech: HTML, CSS, JavaScript, Tailwind, Figma
+
+**Front-End Developer (Freelance)**  
+*2022 – 2024 | Iran*  
+- Built production-ready landing pages and dashboards  
+- Reduced bounce rates through modern responsive design and reusable components
+
+**Python Developer & Research Assistant**  
+*2019 – 2024 | Iran*  
+- Developed ML prototypes, data pipelines, and reproducible analysis for medical & control systems research  
+- Master’s thesis: Prostate cancer detection using control-based and ML approaches
+
+---
+
+### 🎓 Education
+
+**M.Sc. Electrical Control Engineering**  
+GPA: 19.30/20  
+*Electronics & Control Systems*  
+Thesis focused on medical image analysis and control-inspired ML methods
+
+---
+
+### 🌟 Open to Opportunities
+
+- **PhD / Research Collaborations** in Explainable AI, Medical Imaging, and Uncertainty-Aware ML  
+- **ML Engineering roles** focused on production systems & MLOps  
+- **Freelance / Consulting** in healthcare AI and reproducible pipelines  
+
+**Available for collaboration** — feel free to reach out!
+
+---
+
+### ☕ Fun Facts
+
+- Coffee & tea addict — my experiments run on caffeine  
+- From BMS & control systems engineering to applied AI for healthcare  
+- Fluent in Persian • Improving academic English (IELTS target 6.5)  
+- Military service completed
+
+---
+
+### 📈 Contribution Snake
+
+![Contribution Snake](https://github.com/HesamOdinAbbaspour/HesamOdinAbbaspour/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+  <strong>Made with ❤️ and lots of ☕</strong><br>
+  <em>Let's build impactful AI together!</em>
+</div>
