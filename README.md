@@ -1,101 +1,107 @@
-<!-- ================= HEADER ================ -->
+<!-- 
+  Dark modern GitHub Profile README for Hesam Abbaspour
+  Theme: charcoal/deep purple/teal accents – clinical & trustworthy
+-->
+
+<!-- Header banner – wide aspect, fits GitHub profile view nicely -->
+![Hesam Abbaspour – Web & UI Designer for Dental Clinics](assets/banner-dark.svg)
+<!-- Alt: "Dark banner header: Hesam Abbaspour — Web & UI Designer specialized in high-conversion websites for dentists and dental clinics" -->
+
+<h1 align="center">Hi — I'm Hesam 👋</h1>
+
 <p align="center">
-  <!-- Animated typing header (use https://readme-typing-svg.demolab.com or host a GIF) -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1500&color=2B6CB0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hesam+Abbaspour;Electrical+Control+Engineer+;+AI+%26+Data+Science;Building+explainable;%26+production-ready+AI" alt="Typing SVG" /></a>
-  <br/>
-  <em>Engineer • ML & Data Science • Building explainable & production-ready AI</em>
+  <strong>Web & UI Designer + Frontend Developer</strong><br>
+  I create clean, trust-building, conversion-focused websites for <strong>dentists</strong> and dental clinics.
+</p>
+
+<p align="center">
+  Designs that make patients click → book → become loyal patients.
+</p>
+
+<p align="center">
+  <a href="https://hesamwebstudio.ir">Portfolio → hesamwebstudio.ir</a>  
+  •  
+  <a href="mailto:<your-email@example.com>">Email</a>  
+  •  
+  Instagram: @<your_instagram_handle>
 </p>
 
 ---
 
-## 👋 خلاصه (TL;DR)
-- 🎓 M.Sc. in Electrical Control Engineering  
-- 🔬 Transitioning to **AI / Machine Learning / Data Science** (research + production)  
-- 🌐 Web + ML: deploying models as intelligent web apps and services (focus on healthcare/dental domain)  
-- 🔭 Current: building reproducible ML pipelines, explainable models, and research-ready repositories
+### 🚀 What I'm Focused On Right Now
+
+- 🔭 Designing high-conversion landing pages & full dental clinic sites  
+- 🌱 Learning applied Machine Learning & Data Science (preparing for MSc/PhD applications)  
+- 👨‍⚕️ Helping new dentists get professional online presence fast  
 
 ---
 
-## 🛠️ Tech & Tools
-**Languages:** Python, JavaScript, MATLAB  
-**ML / Data:** scikit-learn, PyTorch, TensorFlow, pandas, NumPy, scikit-optimize  
-**MLOps / Infra:** Docker, FastAPI, GitHub Actions, MLflow, DVC  
-**Web / UI:** React, Next.js, Tailwind CSS, Figma  
-**Research / Docs:** Jupyter, Colab, LaTeX
+### 🛠 Key Skills
+
+| Category              | Tools & Focus Areas                              |
+|-----------------------|--------------------------------------------------|
+| Frontend & UI/UX      | HTML, CSS, JavaScript, Responsive Design, Figma  |
+| Design & Prototyping  | Figma (mockups & Instagram carousels), Conversion UX |
+| Backend / Data Basics | Python, MATLAB, APIs                             |
+| Niche Specialization  | Dental clinic websites, appointment funnels, patient trust UI |
 
 ---
 
-## ⭐ Featured Projects
-<!-- Featured project cards — replace image links with project screenshots / badges -->
-<p align="center">
-  <a href="https://github.com/HesamOdinAbbaspour/prostate-cxr-detection">
-    <img width="280" src="https://raw.githubusercontent.com/HesamOdinAbbaspour/assets/main/cards/prostate-card.png" alt="Prostate Detection"/>
-  </a>
-  <a href="https://github.com/HesamOdinAbbaspour/dental-ai-leads">
-    <img width="280" src="https://raw.githubusercontent.com/HesamOdinAbbaspour/assets/main/cards/dental-card.png" alt="Dental AI"/>
-  </a>
-  <a href="https://github.com/HesamOdinAbbaspour/mlops-pipeline-demo">
-    <img width="280" src="https://raw.githubusercontent.com/HesamOdinAbbaspour/assets/main/cards/mlops-card.png" alt="MLOps"/>
-  </a>
-</p>
+### 🖼️ Selected Work (Dental Focus)
 
-> هر کارت تصویری را به‌راحتی با یک screenshot تولید کن و در مسیر `assets/main/cards/` در مخزن قرار بده.
+**1. Dr. Sadeghi Dental Landing Page (Mock/Concept)**  
+Problem: Generic template → low booking rate  
+Solution: Clean hero + trust signals + clear CTA funnel  
+Result: Visual hierarchy improved → higher conversion potential  
+→ [Figma prototype](https://www.figma.com/...) | ![Demo GIF](assets/gifs/demo-dental-hero.gif)  
+<!-- Alt: "Animated GIF demo: dental landing page hero load, CTA hover pulse, booking form microinteraction" -->
 
----
+**2. Generic New Dentist Clinic Template**  
+Modern, responsive static site (HTML/CSS/JS or React prototype) with services, testimonials, scheduling CTA.  
+→ Live preview (coming) | Screenshots in /assets/
 
-## 📈 GitHub Stats & Contribution Snake
-<p align="center">
-  <!-- GitHub readme stats -->
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=HesamOdinAbbaspour&show_icons=true&count_private=true&theme=vision-friendly-dark" />
-  <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamOdinAbbaspour&layout=compact&theme=vision-friendly-dark" />
-</p>
+**3. Full Portfolio**  
+Case studies + before/after redesigns → https://hesamwebstudio.ir
 
-<!-- Contribution snake: generate SVG via https://github.com/ashutosh00710/github-readme-activity-graph or snake generator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HesamOdinAbbaspour/assets/main/snake/snake.svg" alt="contrib-snake" />
-</p>
-
-> توضیح: برای snake از ابزارهای رایج (contribution-grid-snake) استفاده کن و خروجی SVG را در مخزن قرار بده تا همیشه نمایش داده شود.
+*(More projects & live links added as completed)*
 
 ---
 
-## 🔬 Research & Selected Papers
-- **Explainable Prostate Cancer Detection (repo link)** — model + interpretability + dataset preprocessing  
-- **Uncertainty-aware ML for small medical datasets** — notebooks + calibration experiments  
-- اضافه خواهد شد: لینک به preprint / arXiv (در صورت انتشار)
+### 📊 GitHub Activity
+
+<div align="center">
+  
+<!-- GitHub Stats - tokyonight is dark & modern -->
+![Hesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages - compact layout -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🧭 AI Roadmap (public)
-1. **Core** — reproducible training pipelines (DVC + MLflow + tests)  
-2. **Models** — small CNNs → transfer learning → uncertainty estimation → explainability (SHAP/LIME)  
-3. **Infra** — containerized model serving (FastAPI + Docker + GitHub Actions)  
-4. **Research** — publish one workshop paper + 1 preprint in applied ML/medical imaging  
-5. **Impact** — deploy demo for clinicians / collect user feedback
+### 🎯 What I'm Looking For
+
+- **Clients** — New dentists / small clinics needing affordable, high-converting websites  
+- **Collaborations** — With developers for productized dental templates  
+- **Academic** — Funded MSc/PhD positions in Data Science / AI (recommendation letters available)
+
+**CTA:** DM me on Instagram or email for a quick 15-min design consult.
 
 ---
 
-## 📂 How I structure my repos (template)
+### 📎 Let's Connect
 
-data/ # raw & processed (use DVC)
-/notebooks/ # experiments (nbs with clear seeds)
-/src/ # clean python package (pip install -e .)
-/tests/ # unit + integration tests
-/Dockerfile
-/README.md # reproducible run instructions
+- 🌐 https://hesamwebstudio.ir  
+- ✉️ <your-email@example.com>  
+- Instagram: @<your_instagram_handle> (daily dental design tips & carousels)  
+- Open to collaborations & freelance dental web projects
 
+*Last updated: February 2026* <!-- Consider adding a simple GitHub Action later to auto-update this -->
 
----
-
-## 📫 Contact
-<p align="center">
-  <a href="mailto:h.abbaspour719@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hesam-abbaspour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-<!-- Footer: quick call-to-action -->
-<p align="center">
-  ⭐ If you're working on AI/medical imaging or ML systems and want to collaborate — open to research collaborations and PhD/fund opportunities.
-</p>
+<!-- 
+  Badges (optional inline examples – replace with custom SVGs if generated)
+  ![Open for Collaborations](https://img.shields.io/badge/Open%20for%20Collaborations-Yes-14b8a6?style=flat-square)
+  ![Dental Niche Specialist](https://img.shields.io/badge/Niche-Dental%20Websites-6b21a8?style=flat-square)
+-->
