@@ -49,7 +49,7 @@ Currently, I’m developing research-oriented projects and reproducible ML pipel
 - Small-data and data-efficient learning
 - Control-inspired machine learning methods
 
-
+---
 ### 📊 GitHub Stats
 
 <div align="center">
