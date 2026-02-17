@@ -32,11 +32,15 @@
 
 ### 👨‍🔬 About Me
 
-I'm a **control engineer transitioning into AI and machine learning**, focused on building **explainable, reliable, and reproducible** models — especially in healthcare and scientific applications.
+I’m a control engineer transitioning into AI, with a primary focus on
+explainable and uncertainty-aware machine learning for medical imaging.
 
-My background in control systems and signal processing helps me design ML solutions that are not only accurate, but also **interpretable, stable, and suitable for real-world deployment**.
+My work centers on building interpretable models that are reliable,
+reproducible, and suitable for real-world clinical or scientific use.
 
-Currently, I’m developing research-oriented projects and reproducible ML pipelines to support **PhD applications and AI engineering roles**.
+Currently, I’m developing research-oriented ML projects and technical
+reports to support PhD applications in medical and explainable AI.
+
 
 
 ---
@@ -48,6 +52,10 @@ Currently, I’m developing research-oriented projects and reproducible ML pipel
 - Uncertainty-aware machine learning
 - Small-data and data-efficient learning
 - Control-inspired machine learning methods
+
+### 📄 Research Outputs
+- Technical report: Prostate cancer explainable pipeline (in progress)
+- Preprint: coming soon
 
 ---
 ### 📊 GitHub Stats
