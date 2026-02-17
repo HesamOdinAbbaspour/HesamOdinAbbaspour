@@ -61,10 +61,16 @@ reports to support PhD applications in medical and explainable AI.
 ---
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HesamOdinAbbaspour&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=28" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamOdinAbbaspour&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="49%" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=HesamOdinAbbaspour&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamOdinAbbaspour&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
