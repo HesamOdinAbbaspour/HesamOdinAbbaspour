@@ -35,11 +35,12 @@
 I’m a control engineer transitioning into AI, with a primary focus on
 explainable and uncertainty-aware machine learning for medical imaging.
 
-My work centers on building interpretable models that are reliable,
-reproducible, and suitable for real-world clinical or scientific use.
+My work centers on interpretable models that are reliable, reproducible,
+and suitable for real-world clinical or scientific use.
 
 Currently, I’m developing research-oriented ML projects and technical
 reports to support PhD applications in medical and explainable AI.
+
 
 
 
@@ -55,7 +56,7 @@ reports to support PhD applications in medical and explainable AI.
 
 ### 📄 Research Outputs
 - Technical report: Prostate cancer explainable pipeline (in progress)
-- Preprint: coming soon
+- Preprint: planned for 2026
 
 ---
 ### 📊 GitHub Stats
@@ -103,22 +104,21 @@ reports to support PhD applications in medical and explainable AI.
 **1. prostate-cancer-explainable**  
 Explainable ML pipeline for prostate cancer detection from MRI using patch-based classification, Grad-CAM, SHAP, and uncertainty estimation.  
 **Built for research & PhD applications.**  
-[🔗 Repository](https://github.com/HesamOdinAbbaspour/prostate-cancer-explainable) • [Demo (coming soon)](https://github.com/HesamOdinAbbaspour/prostate-cancer-explainable)
-
+[🔗 Repository](https://github.com/HesamOdinAbbaspour/prostate-cancer-explainable) 
 **2. mlops-template**  
 Production-ready, fully reproducible MLOps starter template with DVC + MLflow + Docker + GitHub Actions CI/CD.  
 Perfect blueprint for scalable ML projects.  
-[🔗 Repository](https://github.com/HesamOdinAbbaspour/mlops-template) • [One-click demo](https://github.com/HesamOdinAbbaspour/mlops-template)
+[🔗 Repository](https://github.com/HesamOdinAbbaspour/mlops-template) 
 
 **3. dental-ai-leadscoring**  
 End-to-end AI lead-scoring system + dashboard tailored for dental clinics (product-focused ML).  
 Combines my web design background with ML.  
-[🔗 Repository](https://github.com/HesamOdinAbbaspour/dental-ai-leadscoring) • [Live Demo](https://hesamwebstudio.ir/demo/dental-leads)
+[🔗 Repository](https://github.com/HesamOdinAbbaspour/dental-ai-leadscoring) 
 
 **4. explainability-dashboard**  
 Interactive web dashboard to visualize SHAP, Grad-CAM, and local explanations for both image and tabular data.  
 Great artifact for interviews and research presentations.  
-[🔗 Repository](https://github.com/HesamOdinAbbaspour/explainability-dashboard) • [Demo (coming soon)](https://github.com/HesamOdinAbbaspour/explainability-dashboard)
+[🔗 Repository](https://github.com/HesamOdinAbbaspour/explainability-dashboard) 
 
 ---
 
