@@ -105,6 +105,7 @@ reports to support PhD applications in medical and explainable AI.
 Explainable ML pipeline for prostate cancer detection from MRI using patch-based classification, Grad-CAM, SHAP, and uncertainty estimation.  
 **Built for research & PhD applications.**  
 [🔗 Repository](https://github.com/HesamOdinAbbaspour/prostate-cancer-explainable) 
+
 **2. mlops-template**  
 Production-ready, fully reproducible MLOps starter template with DVC + MLflow + Docker + GitHub Actions CI/CD.  
 Perfect blueprint for scalable ML projects.  
