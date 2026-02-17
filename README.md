@@ -32,11 +32,23 @@
 
 ### 👨‍🔬 About Me
 
-I'm a **control engineer turned AI practitioner** with a passion for building **explainable, production-ready, and reproducible** machine learning systems — especially for healthcare and medical applications.
+I'm a **control engineer transitioning into AI and machine learning**, focused on building **explainable, reliable, and reproducible** models — especially in healthcare and scientific applications.
 
-I combine strong domain knowledge in signal processing & control systems with modern ML/DL practices to create models that are not only accurate but also **interpretable and deployable**. Currently focused on creating high-quality research artifacts and demo-ready projects to support PhD applications and industry collaborations.
+My background in control systems and signal processing helps me design ML solutions that are not only accurate, but also **interpretable, stable, and suitable for real-world deployment**.
+
+Currently, I’m developing research-oriented projects and reproducible ML pipelines to support **PhD applications and AI engineering roles**.
+
 
 ---
+
+### 🔬 Research Interests
+
+- Explainable AI (XAI)
+- Medical image analysis
+- Uncertainty-aware machine learning
+- Small-data and data-efficient learning
+- Control-inspired machine learning methods
+
 
 ### 📊 GitHub Stats
 
@@ -61,13 +73,12 @@ I combine strong domain knowledge in signal processing & control systems with mo
 
 **Machine Learning & Research**
 <br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,xgboost,lightgbm&perline=10" />
-<span style="font-size:0.9em">• SHAP • LIME • Grad-CAM • Uncertainty Estimation • Transfer Learning • Small-data techniques</span>
+<img src="https://skillicons.dev/icons?i=python,scikitlearn,pytorch&perline=10" />
+<span style="font-size:0.9em">• Data Analysis • Model Evaluation • Explainability basics (SHAP, Grad-CAM)</span>
 
 **MLOps & Reproducibility**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,fastapi,githubactions,git&perline=10" />
-<span style="font-size:0.9em">• MLflow • DVC • Reproducible Notebooks • CI/CD</span>
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,docker&perline=10" />
 
 **Web & Design**
 <br>
@@ -100,6 +111,30 @@ Combines my web design background with ML.
 Interactive web dashboard to visualize SHAP, Grad-CAM, and local explanations for both image and tabular data.  
 Great artifact for interviews and research presentations.  
 [🔗 Repository](https://github.com/HesamOdinAbbaspour/explainability-dashboard) • [Demo (coming soon)](https://github.com/HesamOdinAbbaspour/explainability-dashboard)
+
+---
+
+
+### 🧭 AI Roadmap (2026)
+
+**Phase 1 — Core ML Projects**
+- Medical image classification (prostate cancer)
+- Tabular lead scoring model
+- Explainability experiments
+
+**Phase 2 — Reproducible Research**
+- Paper-style project structure
+- Ablation studies and uncertainty analysis
+- Technical reports for each project
+
+**Phase 3 — Applied MLOps**
+- Dockerized ML services
+- Experiment tracking
+- End-to-end inference pipelines
+
+**Long-term Goal**
+→ PhD in Explainable AI / Medical AI  
+→ Research-driven ML engineer in healthcare or scientific domains
 
 ---
 
